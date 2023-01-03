@@ -1,6 +1,6 @@
 # My Wallpapers
 
-![banner](https://github.com/port19x/Wallpapers/raw/main/banner.jpg)
+![banner](https://user-images.githubusercontent.com/82055622/210315101-524e3013-5033-4290-af91-d460d84867e9.jpg)
 
 ## Notes
 
